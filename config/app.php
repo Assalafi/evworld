@@ -1,6 +1,6 @@
 <?php
 
-require_once base_path('resources/lang/custom/locales.php');
+$lan = require_once base_path('resources/lang/custom/locales.php');
 
 return [
 
