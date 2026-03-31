@@ -1,1 +1,1 @@
-<?php $lan = ["lan" => "en"];
+<?php return ["lan" => "en"];
