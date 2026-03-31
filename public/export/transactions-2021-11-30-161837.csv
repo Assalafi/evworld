@@ -1,0 +1,7 @@
+﻿"","","","","","","",""
+"","","","","Transactions","","",""
+"","","","","","","",""
+"#","Order#","Transaction#","Order Date","Customer","Amount($)","Payment Method","Payment Status"
+"1","ORD-211637923793","","26-11-2021","Admin","45.45","Cash on Delivery","Pending"
+"2","ORD-211637299206","TXN-211637921995","19-11-2021","Customer","31,796.82","Cash on Delivery","Completed"
+"3","ORD-211637298795","","19-11-2021","Admin","36,540.79","Cash on Delivery","Pending"

@@ -1,0 +1,5 @@
+﻿"","","","","","","","",""
+"","","","","Orders","","","",""
+"","","","","","","","",""
+"#","Order#","Order Date","Customer","Amount($)","Qty","Payment Method","Payment Status","Order Status"
+"1","ORD-211637923793","26-11-2021","Admin","85.45","1","Cash on Delivery","Pending","Completed"
