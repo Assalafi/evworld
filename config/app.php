@@ -1,7 +1,5 @@
 <?php
 
-$lan = require_once base_path('resources/lang/custom/locales.php');
-
 return [
 
     /*
@@ -83,7 +81,7 @@ return [
     */
 
     // 'locale' => 'en',
-    'locale' => $lan['lan'],
+    'locale' => 'en',
 
     /*
     |--------------------------------------------------------------------------
@@ -97,7 +95,7 @@ return [
     */
 
     // 'fallback_locale' => 'en',
-    'fallback_locale' => $lan['lan'],
+    'fallback_locale' => 'en',
 
     /*
     |--------------------------------------------------------------------------
